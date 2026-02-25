@@ -1,0 +1,2 @@
+C:\MarMejia\FundamentosProgramacionM12\5.CondicionalesAnidados\5.CondicionalesAnidados\obj\Debug\5.CondicionalesAnidados.csproj.AssemblyReference.cache
+C:\MarMejia\FundamentosProgramacionM12\5.CondicionalesAnidados\5.CondicionalesAnidados\obj\Debug\5.CondicionalesAnidados.csproj.CoreCompileInputs.cache
