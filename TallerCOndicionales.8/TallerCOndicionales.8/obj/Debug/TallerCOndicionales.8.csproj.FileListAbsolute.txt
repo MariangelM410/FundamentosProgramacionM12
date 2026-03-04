@@ -1,0 +1,7 @@
+C:\MarMejia\FundamentosProgramacionM12\TallerCOndicionales.8\TallerCOndicionales.8\bin\Debug\TallerCOndicionales.8.exe.config
+C:\MarMejia\FundamentosProgramacionM12\TallerCOndicionales.8\TallerCOndicionales.8\bin\Debug\TallerCOndicionales.8.exe
+C:\MarMejia\FundamentosProgramacionM12\TallerCOndicionales.8\TallerCOndicionales.8\bin\Debug\TallerCOndicionales.8.pdb
+C:\MarMejia\FundamentosProgramacionM12\TallerCOndicionales.8\TallerCOndicionales.8\obj\Debug\TallerCOndicionales.8.csproj.AssemblyReference.cache
+C:\MarMejia\FundamentosProgramacionM12\TallerCOndicionales.8\TallerCOndicionales.8\obj\Debug\TallerCOndicionales.8.csproj.CoreCompileInputs.cache
+C:\MarMejia\FundamentosProgramacionM12\TallerCOndicionales.8\TallerCOndicionales.8\obj\Debug\TallerCOndicionales.8.exe
+C:\MarMejia\FundamentosProgramacionM12\TallerCOndicionales.8\TallerCOndicionales.8\obj\Debug\TallerCOndicionales.8.pdb
