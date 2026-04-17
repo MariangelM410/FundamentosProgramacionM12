@@ -1,0 +1,2 @@
+C:\Users\B09S104est\source\repos\Arreglos Matrices\Arreglos Matrices\obj\Debug\Arreglos Matrices.csproj.AssemblyReference.cache
+C:\Users\B09S104est\source\repos\Arreglos Matrices\Arreglos Matrices\obj\Debug\Arreglos Matrices.csproj.CoreCompileInputs.cache
