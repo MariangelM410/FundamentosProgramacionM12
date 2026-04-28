@@ -1,0 +1,7 @@
+C:\Users\pc\source\repos\TallerMatrices\TallerMatrices\bin\Debug\TallerMatrices.exe.config
+C:\Users\pc\source\repos\TallerMatrices\TallerMatrices\bin\Debug\TallerMatrices.exe
+C:\Users\pc\source\repos\TallerMatrices\TallerMatrices\bin\Debug\TallerMatrices.pdb
+C:\Users\pc\source\repos\TallerMatrices\TallerMatrices\obj\Debug\TallerMatrices.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\TallerMatrices\TallerMatrices\obj\Debug\TallerMatrices.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\TallerMatrices\TallerMatrices\obj\Debug\TallerMatrices.exe
+C:\Users\pc\source\repos\TallerMatrices\TallerMatrices\obj\Debug\TallerMatrices.pdb
