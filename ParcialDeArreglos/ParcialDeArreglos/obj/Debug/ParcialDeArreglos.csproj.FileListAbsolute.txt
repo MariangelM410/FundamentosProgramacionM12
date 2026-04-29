@@ -1,0 +1,7 @@
+C:\Users\B09S104est\source\repos\ParcialDeArreglos\ParcialDeArreglos\obj\Debug\ParcialDeArreglos.csproj.AssemblyReference.cache
+C:\Users\B09S104est\source\repos\ParcialDeArreglos\ParcialDeArreglos\obj\Debug\ParcialDeArreglos.csproj.CoreCompileInputs.cache
+C:\Users\B09S104est\source\repos\ParcialDeArreglos\ParcialDeArreglos\bin\Debug\ParcialDeArreglos.exe.config
+C:\Users\B09S104est\source\repos\ParcialDeArreglos\ParcialDeArreglos\bin\Debug\ParcialDeArreglos.exe
+C:\Users\B09S104est\source\repos\ParcialDeArreglos\ParcialDeArreglos\bin\Debug\ParcialDeArreglos.pdb
+C:\Users\B09S104est\source\repos\ParcialDeArreglos\ParcialDeArreglos\obj\Debug\ParcialDeArreglos.exe
+C:\Users\B09S104est\source\repos\ParcialDeArreglos\ParcialDeArreglos\obj\Debug\ParcialDeArreglos.pdb
